@@ -18,6 +18,6 @@
 .DS_Store
 /worker.sublime-project
 /worker.sublime-workspace
-.ruby-version
 .idea/*
 id_rsa
+.ruby-version
